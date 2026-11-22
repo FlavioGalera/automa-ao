@@ -1,0 +1,10 @@
+Package: sistema-automacao
+Version: 1.1.5-1
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Sistema de Automação (pacote local)
+Depends: libc6 (>= 2.43), libstdc++6, libgcc-s1, libx11-6, libxext6, libxrender1, libxft2, libfontconfig1, libxss1, xdg-utils
+Description: Sistema de Automação
+ Aplicativo gráfico para organizar documentos PDF,
+ buscar e-mails e automatizar planilhas Excel.

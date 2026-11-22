@@ -1,0 +1,50 @@
+[
+  {
+    "data": "17/11/2026 14:41:26",
+    "tipo": "Buscar E-mail",
+    "termo": "nubank",
+    "quantidade": 9
+  },
+  {
+    "data": "17/11/2026 14:32:07",
+    "tipo": "Buscar E-mail",
+    "termo": "nubank",
+    "quantidade": 9
+  },
+  {
+    "data": "17/11/2026 11:53:07",
+    "tipo": "Buscar E-mail",
+    "termo": "nubank",
+    "quantidade": 9
+  },
+  {
+    "data_hora": "17/11/2026 11:00:28",
+    "tipo": "Buscar E-mail",
+    "palavra": "nubank",
+    "quantidade": 9
+  },
+  {
+    "data_hora": "16/11/2026 23:16:14",
+    "tipo": "Buscar E-mail",
+    "palavra": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data_hora": "16/11/2026 22:45:31",
+    "tipo": "Buscar E-mail",
+    "palavra": "google",
+    "quantidade": 11
+  },
+  {
+    "data_hora": "16/11/2026 22:33:10",
+    "tipo": "Buscar E-mail",
+    "palavra": "wise",
+    "quantidade": 5
+  },
+  {
+    "data_hora": "16/11/2026 20:53:51",
+    "tipo": "Buscar E-mail",
+    "palavra": "nubank",
+    "quantidade": 12
+  }
+]

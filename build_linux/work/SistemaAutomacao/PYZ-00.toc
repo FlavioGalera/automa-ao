@@ -1,0 +1,3960 @@
+('/home/flavio/Área de '
+ 'trabalho/automaçao/build_linux/work/SistemaAutomacao/PYZ-00.pyz',
+ [('PIL',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PIL/features.py',
+   'PYMODULE'),
+  ('__future__', '/usr/lib/python3.14/__future__.py', 'PYMODULE'),
+  ('_aix_support', '/usr/lib/python3.14/_aix_support.py', 'PYMODULE'),
+  ('_ast_unparse', '/usr/lib/python3.14/_ast_unparse.py', 'PYMODULE'),
+  ('_colorize', '/usr/lib/python3.14/_colorize.py', 'PYMODULE'),
+  ('_compat_pickle', '/usr/lib/python3.14/_compat_pickle.py', 'PYMODULE'),
+  ('_markupbase', '/usr/lib/python3.14/_markupbase.py', 'PYMODULE'),
+  ('_opcode_metadata', '/usr/lib/python3.14/_opcode_metadata.py', 'PYMODULE'),
+  ('_py_abc', '/usr/lib/python3.14/_py_abc.py', 'PYMODULE'),
+  ('_py_warnings', '/usr/lib/python3.14/_py_warnings.py', 'PYMODULE'),
+  ('_pydatetime', '/usr/lib/python3.14/_pydatetime.py', 'PYMODULE'),
+  ('_pydecimal', '/usr/lib/python3.14/_pydecimal.py', 'PYMODULE'),
+  ('_pyi_rth_utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.tempfile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/tempfile.py',
+   'PYMODULE'),
+  ('_pyrepl', '/usr/lib/python3.14/_pyrepl/__init__.py', 'PYMODULE'),
+  ('_pyrepl.pager', '/usr/lib/python3.14/_pyrepl/pager.py', 'PYMODULE'),
+  ('_pyrepl.trace', '/usr/lib/python3.14/_pyrepl/trace.py', 'PYMODULE'),
+  ('_pyrepl.types', '/usr/lib/python3.14/_pyrepl/types.py', 'PYMODULE'),
+  ('_pyrepl.utils', '/usr/lib/python3.14/_pyrepl/utils.py', 'PYMODULE'),
+  ('_strptime', '/usr/lib/python3.14/_strptime.py', 'PYMODULE'),
+  ('_sysconfigdata__linux_x86_64-linux-gnu',
+   '/usr/lib/python3.14/_sysconfigdata__linux_x86_64-linux-gnu.py',
+   'PYMODULE'),
+  ('_threading_local', '/usr/lib/python3.14/_threading_local.py', 'PYMODULE'),
+  ('annotationlib', '/usr/lib/python3.14/annotationlib.py', 'PYMODULE'),
+  ('argparse', '/usr/lib/python3.14/argparse.py', 'PYMODULE'),
+  ('ast', '/usr/lib/python3.14/ast.py', 'PYMODULE'),
+  ('asyncio', '/usr/lib/python3.14/asyncio/__init__.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   '/usr/lib/python3.14/asyncio/base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   '/usr/lib/python3.14/asyncio/base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   '/usr/lib/python3.14/asyncio/base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   '/usr/lib/python3.14/asyncio/base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants', '/usr/lib/python3.14/asyncio/constants.py', 'PYMODULE'),
+  ('asyncio.coroutines',
+   '/usr/lib/python3.14/asyncio/coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events', '/usr/lib/python3.14/asyncio/events.py', 'PYMODULE'),
+  ('asyncio.exceptions',
+   '/usr/lib/python3.14/asyncio/exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   '/usr/lib/python3.14/asyncio/format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures', '/usr/lib/python3.14/asyncio/futures.py', 'PYMODULE'),
+  ('asyncio.graph', '/usr/lib/python3.14/asyncio/graph.py', 'PYMODULE'),
+  ('asyncio.locks', '/usr/lib/python3.14/asyncio/locks.py', 'PYMODULE'),
+  ('asyncio.log', '/usr/lib/python3.14/asyncio/log.py', 'PYMODULE'),
+  ('asyncio.mixins', '/usr/lib/python3.14/asyncio/mixins.py', 'PYMODULE'),
+  ('asyncio.proactor_events',
+   '/usr/lib/python3.14/asyncio/proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols', '/usr/lib/python3.14/asyncio/protocols.py', 'PYMODULE'),
+  ('asyncio.queues', '/usr/lib/python3.14/asyncio/queues.py', 'PYMODULE'),
+  ('asyncio.runners', '/usr/lib/python3.14/asyncio/runners.py', 'PYMODULE'),
+  ('asyncio.selector_events',
+   '/usr/lib/python3.14/asyncio/selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto', '/usr/lib/python3.14/asyncio/sslproto.py', 'PYMODULE'),
+  ('asyncio.staggered', '/usr/lib/python3.14/asyncio/staggered.py', 'PYMODULE'),
+  ('asyncio.streams', '/usr/lib/python3.14/asyncio/streams.py', 'PYMODULE'),
+  ('asyncio.subprocess',
+   '/usr/lib/python3.14/asyncio/subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   '/usr/lib/python3.14/asyncio/taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks', '/usr/lib/python3.14/asyncio/tasks.py', 'PYMODULE'),
+  ('asyncio.threads', '/usr/lib/python3.14/asyncio/threads.py', 'PYMODULE'),
+  ('asyncio.timeouts', '/usr/lib/python3.14/asyncio/timeouts.py', 'PYMODULE'),
+  ('asyncio.transports',
+   '/usr/lib/python3.14/asyncio/transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock', '/usr/lib/python3.14/asyncio/trsock.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   '/usr/lib/python3.14/asyncio/unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   '/usr/lib/python3.14/asyncio/windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   '/usr/lib/python3.14/asyncio/windows_utils.py',
+   'PYMODULE'),
+  ('base64', '/usr/lib/python3.14/base64.py', 'PYMODULE'),
+  ('bdb', '/usr/lib/python3.14/bdb.py', 'PYMODULE'),
+  ('bisect', '/usr/lib/python3.14/bisect.py', 'PYMODULE'),
+  ('bz2', '/usr/lib/python3.14/bz2.py', 'PYMODULE'),
+  ('calendar', '/usr/lib/python3.14/calendar.py', 'PYMODULE'),
+  ('cmd', '/usr/lib/python3.14/cmd.py', 'PYMODULE'),
+  ('code', '/usr/lib/python3.14/code.py', 'PYMODULE'),
+  ('codeop', '/usr/lib/python3.14/codeop.py', 'PYMODULE'),
+  ('colorsys', '/usr/lib/python3.14/colorsys.py', 'PYMODULE'),
+  ('compression', '/usr/lib/python3.14/compression/__init__.py', 'PYMODULE'),
+  ('compression._common',
+   '/usr/lib/python3.14/compression/_common/__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   '/usr/lib/python3.14/compression/_common/_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   '/usr/lib/python3.14/compression/zstd/__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   '/usr/lib/python3.14/compression/zstd/_zstdfile.py',
+   'PYMODULE'),
+  ('concurrent', '/usr/lib/python3.14/concurrent/__init__.py', 'PYMODULE'),
+  ('concurrent.futures',
+   '/usr/lib/python3.14/concurrent/futures/__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   '/usr/lib/python3.14/concurrent/futures/_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.interpreter',
+   '/usr/lib/python3.14/concurrent/futures/interpreter.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   '/usr/lib/python3.14/concurrent/futures/process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   '/usr/lib/python3.14/concurrent/futures/thread.py',
+   'PYMODULE'),
+  ('concurrent.interpreters',
+   '/usr/lib/python3.14/concurrent/interpreters/__init__.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._crossinterp',
+   '/usr/lib/python3.14/concurrent/interpreters/_crossinterp.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._queues',
+   '/usr/lib/python3.14/concurrent/interpreters/_queues.py',
+   'PYMODULE'),
+  ('contextlib', '/usr/lib/python3.14/contextlib.py', 'PYMODULE'),
+  ('contextvars', '/usr/lib/python3.14/contextvars.py', 'PYMODULE'),
+  ('contourpy',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/__init__.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/_version.py',
+   'PYMODULE'),
+  ('contourpy.array',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/array.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/chunk.py',
+   'PYMODULE'),
+  ('contourpy.convert',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/convert.py',
+   'PYMODULE'),
+  ('contourpy.dechunk',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/dechunk.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/enum_util.py',
+   'PYMODULE'),
+  ('contourpy.typecheck',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/typecheck.py',
+   'PYMODULE'),
+  ('contourpy.types',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/contourpy/types.py',
+   'PYMODULE'),
+  ('copy', '/usr/lib/python3.14/copy.py', 'PYMODULE'),
+  ('cryptography',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/exceptions.py',
+   'PYMODULE'),
+  ('cryptography.fernet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/fernet.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/backends/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/backends/openssl/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/backends/openssl/backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/bindings/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/bindings/openssl/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/bindings/openssl/_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/bindings/openssl/binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/decrepit/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/decrepit/ciphers/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/decrepit/ciphers/algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.modes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/decrepit/ciphers/modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._modes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/_modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/asymmetric/ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/asymmetric/padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/asymmetric/rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/ciphers/base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/ciphers/modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hmac',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/kdf/__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.pbkdf2',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.padding',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/hazmat/primitives/padding.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cryptography/utils.py',
+   'PYMODULE'),
+  ('csv', '/usr/lib/python3.14/csv.py', 'PYMODULE'),
+  ('ctypes', '/usr/lib/python3.14/ctypes/__init__.py', 'PYMODULE'),
+  ('ctypes._endian', '/usr/lib/python3.14/ctypes/_endian.py', 'PYMODULE'),
+  ('ctypes._layout', '/usr/lib/python3.14/ctypes/_layout.py', 'PYMODULE'),
+  ('ctypes.wintypes', '/usr/lib/python3.14/ctypes/wintypes.py', 'PYMODULE'),
+  ('cycler',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/cycler/__init__.py',
+   'PYMODULE'),
+  ('dataclasses', '/usr/lib/python3.14/dataclasses.py', 'PYMODULE'),
+  ('datetime', '/usr/lib/python3.14/datetime.py', 'PYMODULE'),
+  ('dateutil',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/_common.py',
+   'PYMODULE'),
+  ('dateutil._tzdata_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/_tzdata_impl.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/parser/__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/parser/_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/parser/isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._tzfile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/_tzfile.py',
+   'PYMODULE'),
+  ('dateutil.tz._tzpath',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/_tzpath.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/dateutil/tz/win.py',
+   'PYMODULE'),
+  ('decimal', '/usr/lib/python3.14/decimal.py', 'PYMODULE'),
+  ('difflib', '/usr/lib/python3.14/difflib.py', 'PYMODULE'),
+  ('dis', '/usr/lib/python3.14/dis.py', 'PYMODULE'),
+  ('doctest', '/usr/lib/python3.14/doctest.py', 'PYMODULE'),
+  ('email', '/usr/lib/python3.14/email/__init__.py', 'PYMODULE'),
+  ('email._encoded_words',
+   '/usr/lib/python3.14/email/_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   '/usr/lib/python3.14/email/_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr', '/usr/lib/python3.14/email/_parseaddr.py', 'PYMODULE'),
+  ('email._policybase', '/usr/lib/python3.14/email/_policybase.py', 'PYMODULE'),
+  ('email.base64mime', '/usr/lib/python3.14/email/base64mime.py', 'PYMODULE'),
+  ('email.charset', '/usr/lib/python3.14/email/charset.py', 'PYMODULE'),
+  ('email.contentmanager',
+   '/usr/lib/python3.14/email/contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders', '/usr/lib/python3.14/email/encoders.py', 'PYMODULE'),
+  ('email.errors', '/usr/lib/python3.14/email/errors.py', 'PYMODULE'),
+  ('email.feedparser', '/usr/lib/python3.14/email/feedparser.py', 'PYMODULE'),
+  ('email.generator', '/usr/lib/python3.14/email/generator.py', 'PYMODULE'),
+  ('email.header', '/usr/lib/python3.14/email/header.py', 'PYMODULE'),
+  ('email.headerregistry',
+   '/usr/lib/python3.14/email/headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators', '/usr/lib/python3.14/email/iterators.py', 'PYMODULE'),
+  ('email.message', '/usr/lib/python3.14/email/message.py', 'PYMODULE'),
+  ('email.parser', '/usr/lib/python3.14/email/parser.py', 'PYMODULE'),
+  ('email.policy', '/usr/lib/python3.14/email/policy.py', 'PYMODULE'),
+  ('email.quoprimime', '/usr/lib/python3.14/email/quoprimime.py', 'PYMODULE'),
+  ('email.utils', '/usr/lib/python3.14/email/utils.py', 'PYMODULE'),
+  ('et_xmlfile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/et_xmlfile/__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.incremental_tree',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/et_xmlfile/incremental_tree.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/et_xmlfile/xmlfile.py',
+   'PYMODULE'),
+  ('fileinput', '/usr/lib/python3.14/fileinput.py', 'PYMODULE'),
+  ('fnmatch', '/usr/lib/python3.14/fnmatch.py', 'PYMODULE'),
+  ('fontTools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/fontTools/__init__.py',
+   'PYMODULE'),
+  ('fontTools.agl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/fontTools/agl.py',
+   'PYMODULE'),
+  ('fontTools.misc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/fontTools/misc/__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.loggingTools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/fontTools/misc/loggingTools.py',
+   'PYMODULE'),
+  ('fontTools.misc.textTools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/fontTools/misc/textTools.py',
+   'PYMODULE'),
+  ('fractions', '/usr/lib/python3.14/fractions.py', 'PYMODULE'),
+  ('ftplib', '/usr/lib/python3.14/ftplib.py', 'PYMODULE'),
+  ('getopt', '/usr/lib/python3.14/getopt.py', 'PYMODULE'),
+  ('getpass', '/usr/lib/python3.14/getpass.py', 'PYMODULE'),
+  ('gettext', '/usr/lib/python3.14/gettext.py', 'PYMODULE'),
+  ('glob', '/usr/lib/python3.14/glob.py', 'PYMODULE'),
+  ('gzip', '/usr/lib/python3.14/gzip.py', 'PYMODULE'),
+  ('hashlib', '/usr/lib/python3.14/hashlib.py', 'PYMODULE'),
+  ('hmac', '/usr/lib/python3.14/hmac.py', 'PYMODULE'),
+  ('html', '/usr/lib/python3.14/html/__init__.py', 'PYMODULE'),
+  ('html.entities', '/usr/lib/python3.14/html/entities.py', 'PYMODULE'),
+  ('html.parser', '/usr/lib/python3.14/html/parser.py', 'PYMODULE'),
+  ('http', '/usr/lib/python3.14/http/__init__.py', 'PYMODULE'),
+  ('http.client', '/usr/lib/python3.14/http/client.py', 'PYMODULE'),
+  ('http.cookiejar', '/usr/lib/python3.14/http/cookiejar.py', 'PYMODULE'),
+  ('http.server', '/usr/lib/python3.14/http/server.py', 'PYMODULE'),
+  ('imaplib', '/usr/lib/python3.14/imaplib.py', 'PYMODULE'),
+  ('importlib', '/usr/lib/python3.14/importlib/__init__.py', 'PYMODULE'),
+  ('importlib._abc', '/usr/lib/python3.14/importlib/_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   '/usr/lib/python3.14/importlib/_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   '/usr/lib/python3.14/importlib/_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc', '/usr/lib/python3.14/importlib/abc.py', 'PYMODULE'),
+  ('importlib.machinery',
+   '/usr/lib/python3.14/importlib/machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   '/usr/lib/python3.14/importlib/metadata/__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   '/usr/lib/python3.14/importlib/metadata/_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   '/usr/lib/python3.14/importlib/metadata/_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   '/usr/lib/python3.14/importlib/metadata/_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   '/usr/lib/python3.14/importlib/metadata/_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   '/usr/lib/python3.14/importlib/metadata/_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   '/usr/lib/python3.14/importlib/metadata/_text.py',
+   'PYMODULE'),
+  ('importlib.readers', '/usr/lib/python3.14/importlib/readers.py', 'PYMODULE'),
+  ('importlib.resources',
+   '/usr/lib/python3.14/importlib/resources/__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   '/usr/lib/python3.14/importlib/resources/_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   '/usr/lib/python3.14/importlib/resources/_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   '/usr/lib/python3.14/importlib/resources/_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   '/usr/lib/python3.14/importlib/resources/_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   '/usr/lib/python3.14/importlib/resources/abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   '/usr/lib/python3.14/importlib/resources/readers.py',
+   'PYMODULE'),
+  ('importlib.util', '/usr/lib/python3.14/importlib/util.py', 'PYMODULE'),
+  ('inspect', '/usr/lib/python3.14/inspect.py', 'PYMODULE'),
+  ('ipaddress', '/usr/lib/python3.14/ipaddress.py', 'PYMODULE'),
+  ('json', '/usr/lib/python3.14/json/__init__.py', 'PYMODULE'),
+  ('json.decoder', '/usr/lib/python3.14/json/decoder.py', 'PYMODULE'),
+  ('json.encoder', '/usr/lib/python3.14/json/encoder.py', 'PYMODULE'),
+  ('json.scanner', '/usr/lib/python3.14/json/scanner.py', 'PYMODULE'),
+  ('kiwisolver',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/kiwisolver/__init__.py',
+   'PYMODULE'),
+  ('kiwisolver.exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/kiwisolver/exceptions.py',
+   'PYMODULE'),
+  ('logging', '/usr/lib/python3.14/logging/__init__.py', 'PYMODULE'),
+  ('lzma', '/usr/lib/python3.14/lzma.py', 'PYMODULE'),
+  ('matplotlib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/__init__.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_afm.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_api/__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_api/deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_bivar',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_cm_bivar.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm_multivar',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_cm_multivar.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_docstring.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_enums.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._style_helpers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_style_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/_version.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/artist.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/axes/__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/axes/_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/axes/_base.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/axes/_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/axis.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backends/__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backends/_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backends/backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backends/backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.registry',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/backends/registry.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/bezier.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/category.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/cbook.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/cm.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/collections.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.colorizer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/colorizer.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/colors.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/container.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/contour.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/dates.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/dviread.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/figure.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/hatch.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/image.py',
+   'PYMODULE'),
+  ('matplotlib.inset',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/inset.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/markers.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/mlab.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/patches.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/path.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/projections/__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/projections/geo.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/projections/polar.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/quiver.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/scale.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/spines.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/style/__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/style/core.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/table.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/text.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/textpath.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/ticker.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/transforms.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triangulation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tricontour',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trifinder',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triinterpolate',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tripcolor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triplot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trirefine',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tritools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/tri/_tritools.py',
+   'PYMODULE'),
+  ('matplotlib.typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/typing.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/units.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/matplotlib/widgets.py',
+   'PYMODULE'),
+  ('mimetypes', '/usr/lib/python3.14/mimetypes.py', 'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/mpl_toolkits/mplot3d/__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/mpl_toolkits/mplot3d/art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/mpl_toolkits/mplot3d/axes3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/mpl_toolkits/mplot3d/axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/mpl_toolkits/mplot3d/proj3d.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   '/usr/lib/python3.14/multiprocessing/__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   '/usr/lib/python3.14/multiprocessing/connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   '/usr/lib/python3.14/multiprocessing/context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   '/usr/lib/python3.14/multiprocessing/dummy/__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   '/usr/lib/python3.14/multiprocessing/dummy/connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   '/usr/lib/python3.14/multiprocessing/forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   '/usr/lib/python3.14/multiprocessing/heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   '/usr/lib/python3.14/multiprocessing/managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   '/usr/lib/python3.14/multiprocessing/pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   '/usr/lib/python3.14/multiprocessing/popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   '/usr/lib/python3.14/multiprocessing/popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   '/usr/lib/python3.14/multiprocessing/popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   '/usr/lib/python3.14/multiprocessing/popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   '/usr/lib/python3.14/multiprocessing/process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   '/usr/lib/python3.14/multiprocessing/queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   '/usr/lib/python3.14/multiprocessing/reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   '/usr/lib/python3.14/multiprocessing/resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   '/usr/lib/python3.14/multiprocessing/resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   '/usr/lib/python3.14/multiprocessing/shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   '/usr/lib/python3.14/multiprocessing/sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   '/usr/lib/python3.14/multiprocessing/spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   '/usr/lib/python3.14/multiprocessing/synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   '/usr/lib/python3.14/multiprocessing/util.py',
+   'PYMODULE'),
+  ('netrc', '/usr/lib/python3.14/netrc.py', 'PYMODULE'),
+  ('numbers', '/usr/lib/python3.14/numbers.py', 'PYMODULE'),
+  ('numpy',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_core/umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_typing/_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_utils/__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._conversions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_utils/_conversions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/_utils/_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/char/__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/core/__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/core/_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ctypeslib/__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/f2py/use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/fft/__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/fft/_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/fft/_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/lib/stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/linalg/__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/linalg/_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ma/__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ma/core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ma/extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/ma/mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/matrixlib/__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/matrixlib/defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/polynomial/polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/random/__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/random/_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/rec/__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/strings/__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/testing/__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/testing/_private/__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/testing/_private/extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/testing/_private/utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/testing/overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/typing/__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/numpy/version.py',
+   'PYMODULE'),
+  ('opcode', '/usr/lib/python3.14/opcode.py', 'PYMODULE'),
+  ('openpyxl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/cell/text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chart/updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/chartsheet/views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/comments/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/comments/author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/comments/comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/comments/comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/comments/shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/compat/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/compat/numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/compat/strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.container',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/container.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/descriptors/serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/drawing/xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formatting/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formatting/formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formatting/rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formula/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formula/tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/formula/translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/packaging/workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/pivot/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/pivot/cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/pivot/fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/pivot/record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/pivot/table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/reader/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/reader/drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/reader/excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/reader/strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/reader/workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/styles/table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/utils/units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/external_link/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/external_link/external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/workbook/workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/worksheet/worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/writer/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/writer/excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/writer/theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/xml/__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/xml/constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/openpyxl/xml/functions.py',
+   'PYMODULE'),
+  ('packaging',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/packaging/__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/packaging/version.py',
+   'PYMODULE'),
+  ('pandas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_config/__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_config/config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_config/dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_config/display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_config/localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_libs/__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_libs/tslibs/__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_libs/window/__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_testing/contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_typing.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.executors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/executors/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/extensions/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/indexers/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/interchange/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.internals',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/internals.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/types/__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/api/typing/__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/arrays/__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._cpu',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/_cpu.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/numpy/__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/numpy/function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/compat/pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/_numba/kernels/var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/array_algos/transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/arrow/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/arrow/_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/arrow/accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/arrow/array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/arrow/extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/sparse/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/sparse/accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/sparse/array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/sparse/scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/arrays/timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/base.py',
+   'PYMODULE'),
+  ('pandas.core.col',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/col.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/computation/scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/dtypes/missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/groupby/ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexers/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexers/objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexers/utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexes/timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/interchange/utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/internals/ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.filter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/filter.py',
+   'PYMODULE'),
+  ('pandas.core.methods.select',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/select.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/methods/to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/ops/missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/reshape/tile.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/series.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/strings/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/strings/accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/strings/object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/tools/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/tools/datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/tools/numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/tools/timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/tools/times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/util/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/util/hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/util/numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/common.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/core/window/rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/errors/__init__.py',
+   'PYMODULE'),
+  ('pandas.errors.cow',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/errors/cow.py',
+   'PYMODULE'),
+  ('pandas.io',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/clipboard/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/excel/_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/formats/xml.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/html.py',
+   'PYMODULE'),
+  ('pandas.io.iceberg',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/iceberg.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/json/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/json/_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/json/_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/json/_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/parsers/readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sas/__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sas/sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sas/sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sas/sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sas/sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/io/xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.boxplot',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/boxplot.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.converter',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/converter.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.groupby',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/groupby.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.hist',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/hist.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.misc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.style',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/style.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.timeseries',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/timeseries.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.tools',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_matplotlib/tools.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/plotting/_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/tseries/__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/tseries/api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/tseries/frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/tseries/holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/tseries/offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pandas/util/version/__init__.py',
+   'PYMODULE'),
+  ('pathlib', '/usr/lib/python3.14/pathlib/__init__.py', 'PYMODULE'),
+  ('pathlib._os', '/usr/lib/python3.14/pathlib/_os.py', 'PYMODULE'),
+  ('pdb', '/usr/lib/python3.14/pdb.py', 'PYMODULE'),
+  ('pickle', '/usr/lib/python3.14/pickle.py', 'PYMODULE'),
+  ('pkgutil', '/usr/lib/python3.14/pkgutil.py', 'PYMODULE'),
+  ('platform', '/usr/lib/python3.14/platform.py', 'PYMODULE'),
+  ('plistlib', '/usr/lib/python3.14/plistlib.py', 'PYMODULE'),
+  ('pprint', '/usr/lib/python3.14/pprint.py', 'PYMODULE'),
+  ('py_compile', '/usr/lib/python3.14/py_compile.py', 'PYMODULE'),
+  ('pydoc', '/usr/lib/python3.14/pydoc.py', 'PYMODULE'),
+  ('pydoc_data', '/usr/lib/python3.14/pydoc_data/__init__.py', 'PYMODULE'),
+  ('pydoc_data.module_docs',
+   '/usr/lib/python3.14/pydoc_data/module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data.topics', '/usr/lib/python3.14/pydoc_data/topics.py', 'PYMODULE'),
+  ('pyparsing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/diagram/__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/util.py',
+   'PYMODULE'),
+  ('pyparsing.warnings',
+   '/home/flavio/Área de '
+   'trabalho/automaçao/.venv-build/lib/python3.14/site-packages/pyparsing/warnings.py',
+   'PYMODULE'),
+  ('queue', '/usr/lib/python3.14/queue.py', 'PYMODULE'),
+  ('quopri', '/usr/lib/python3.14/quopri.py', 'PYMODULE'),
+  ('random', '/usr/lib/python3.14/random.py', 'PYMODULE'),
+  ('rlcompleter', '/usr/lib/python3.14/rlcompleter.py', 'PYMODULE'),
+  ('runpy', '/usr/lib/python3.14/runpy.py', 'PYMODULE'),
+  ('secrets', '/usr/lib/python3.14/secrets.py', 'PYMODULE'),
+  ('selectors', '/usr/lib/python3.14/selectors.py', 'PYMODULE'),
+  ('shlex', '/usr/lib/python3.14/shlex.py', 'PYMODULE'),
+  ('shutil', '/usr/lib/python3.14/shutil.py', 'PYMODULE'),
+  ('signal', '/usr/lib/python3.14/signal.py', 'PYMODULE'),
+  ('socket', '/usr/lib/python3.14/socket.py', 'PYMODULE'),
+  ('socketserver', '/usr/lib/python3.14/socketserver.py', 'PYMODULE'),
+  ('sqlite3', '/usr/lib/python3.14/sqlite3/__init__.py', 'PYMODULE'),
+  ('sqlite3.__main__', '/usr/lib/python3.14/sqlite3/__main__.py', 'PYMODULE'),
+  ('sqlite3.dbapi2', '/usr/lib/python3.14/sqlite3/dbapi2.py', 'PYMODULE'),
+  ('sqlite3.dump', '/usr/lib/python3.14/sqlite3/dump.py', 'PYMODULE'),
+  ('ssl', '/usr/lib/python3.14/ssl.py', 'PYMODULE'),
+  ('statistics', '/usr/lib/python3.14/statistics.py', 'PYMODULE'),
+  ('string', '/usr/lib/python3.14/string/__init__.py', 'PYMODULE'),
+  ('stringprep', '/usr/lib/python3.14/stringprep.py', 'PYMODULE'),
+  ('subprocess', '/usr/lib/python3.14/subprocess.py', 'PYMODULE'),
+  ('sysconfig', '/usr/lib/python3.14/sysconfig/__init__.py', 'PYMODULE'),
+  ('tarfile', '/usr/lib/python3.14/tarfile.py', 'PYMODULE'),
+  ('tempfile', '/usr/lib/python3.14/tempfile.py', 'PYMODULE'),
+  ('textwrap', '/usr/lib/python3.14/textwrap.py', 'PYMODULE'),
+  ('threading', '/usr/lib/python3.14/threading.py', 'PYMODULE'),
+  ('timeit', '/usr/lib/python3.14/timeit.py', 'PYMODULE'),
+  ('tkinter', '/usr/lib/python3.14/tkinter/__init__.py', 'PYMODULE'),
+  ('tkinter.commondialog',
+   '/usr/lib/python3.14/tkinter/commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants', '/usr/lib/python3.14/tkinter/constants.py', 'PYMODULE'),
+  ('tkinter.dialog', '/usr/lib/python3.14/tkinter/dialog.py', 'PYMODULE'),
+  ('tkinter.filedialog',
+   '/usr/lib/python3.14/tkinter/filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font', '/usr/lib/python3.14/tkinter/font.py', 'PYMODULE'),
+  ('tkinter.messagebox',
+   '/usr/lib/python3.14/tkinter/messagebox.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   '/usr/lib/python3.14/tkinter/scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   '/usr/lib/python3.14/tkinter/simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk', '/usr/lib/python3.14/tkinter/ttk.py', 'PYMODULE'),
+  ('token', '/usr/lib/python3.14/token.py', 'PYMODULE'),
+  ('tokenize', '/usr/lib/python3.14/tokenize.py', 'PYMODULE'),
+  ('tracemalloc', '/usr/lib/python3.14/tracemalloc.py', 'PYMODULE'),
+  ('tty', '/usr/lib/python3.14/tty.py', 'PYMODULE'),
+  ('typing', '/usr/lib/python3.14/typing.py', 'PYMODULE'),
+  ('unittest', '/usr/lib/python3.14/unittest/__init__.py', 'PYMODULE'),
+  ('unittest._log', '/usr/lib/python3.14/unittest/_log.py', 'PYMODULE'),
+  ('unittest.async_case',
+   '/usr/lib/python3.14/unittest/async_case.py',
+   'PYMODULE'),
+  ('unittest.case', '/usr/lib/python3.14/unittest/case.py', 'PYMODULE'),
+  ('unittest.loader', '/usr/lib/python3.14/unittest/loader.py', 'PYMODULE'),
+  ('unittest.main', '/usr/lib/python3.14/unittest/main.py', 'PYMODULE'),
+  ('unittest.result', '/usr/lib/python3.14/unittest/result.py', 'PYMODULE'),
+  ('unittest.runner', '/usr/lib/python3.14/unittest/runner.py', 'PYMODULE'),
+  ('unittest.signals', '/usr/lib/python3.14/unittest/signals.py', 'PYMODULE'),
+  ('unittest.suite', '/usr/lib/python3.14/unittest/suite.py', 'PYMODULE'),
+  ('unittest.util', '/usr/lib/python3.14/unittest/util.py', 'PYMODULE'),
+  ('urllib', '/usr/lib/python3.14/urllib/__init__.py', 'PYMODULE'),
+  ('urllib.error', '/usr/lib/python3.14/urllib/error.py', 'PYMODULE'),
+  ('urllib.parse', '/usr/lib/python3.14/urllib/parse.py', 'PYMODULE'),
+  ('urllib.request', '/usr/lib/python3.14/urllib/request.py', 'PYMODULE'),
+  ('urllib.response', '/usr/lib/python3.14/urllib/response.py', 'PYMODULE'),
+  ('uuid', '/usr/lib/python3.14/uuid.py', 'PYMODULE'),
+  ('webbrowser', '/usr/lib/python3.14/webbrowser.py', 'PYMODULE'),
+  ('xml', '/usr/lib/python3.14/xml/__init__.py', 'PYMODULE'),
+  ('xml.dom', '/usr/lib/python3.14/xml/dom/__init__.py', 'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   '/usr/lib/python3.14/xml/dom/NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg', '/usr/lib/python3.14/xml/dom/domreg.py', 'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   '/usr/lib/python3.14/xml/dom/expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   '/usr/lib/python3.14/xml/dom/minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom', '/usr/lib/python3.14/xml/dom/minidom.py', 'PYMODULE'),
+  ('xml.dom.pulldom', '/usr/lib/python3.14/xml/dom/pulldom.py', 'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   '/usr/lib/python3.14/xml/dom/xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree', '/usr/lib/python3.14/xml/etree/__init__.py', 'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   '/usr/lib/python3.14/xml/etree/ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   '/usr/lib/python3.14/xml/etree/ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   '/usr/lib/python3.14/xml/etree/ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   '/usr/lib/python3.14/xml/etree/cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers', '/usr/lib/python3.14/xml/parsers/__init__.py', 'PYMODULE'),
+  ('xml.parsers.expat', '/usr/lib/python3.14/xml/parsers/expat.py', 'PYMODULE'),
+  ('xml.sax', '/usr/lib/python3.14/xml/sax/__init__.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   '/usr/lib/python3.14/xml/sax/_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   '/usr/lib/python3.14/xml/sax/expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler', '/usr/lib/python3.14/xml/sax/handler.py', 'PYMODULE'),
+  ('xml.sax.saxutils', '/usr/lib/python3.14/xml/sax/saxutils.py', 'PYMODULE'),
+  ('xml.sax.xmlreader', '/usr/lib/python3.14/xml/sax/xmlreader.py', 'PYMODULE'),
+  ('xmlrpc', '/usr/lib/python3.14/xmlrpc/__init__.py', 'PYMODULE'),
+  ('xmlrpc.client', '/usr/lib/python3.14/xmlrpc/client.py', 'PYMODULE'),
+  ('zipfile', '/usr/lib/python3.14/zipfile/__init__.py', 'PYMODULE'),
+  ('zipfile._path',
+   '/usr/lib/python3.14/zipfile/_path/__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   '/usr/lib/python3.14/zipfile/_path/glob.py',
+   'PYMODULE'),
+  ('zipimport', '/usr/lib/python3.14/zipimport.py', 'PYMODULE'),
+  ('zoneinfo', '/usr/lib/python3.14/zoneinfo/__init__.py', 'PYMODULE'),
+  ('zoneinfo._common', '/usr/lib/python3.14/zoneinfo/_common.py', 'PYMODULE'),
+  ('zoneinfo._tzpath', '/usr/lib/python3.14/zoneinfo/_tzpath.py', 'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   '/usr/lib/python3.14/zoneinfo/_zoneinfo.py',
+   'PYMODULE')])

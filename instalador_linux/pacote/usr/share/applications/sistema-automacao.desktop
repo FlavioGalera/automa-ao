@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sistema de Automação
+Name[pt_BR]=Sistema de Automação
+Name[en]=Automation System
+Name[it]=Sistema di Automazione
+Name[es]=Sistema de Automatización
+Comment=Automatização de PDFs, e-mails e planilhas
+Exec=sistema-automacao
+TryExec=sistema-automacao
+Icon=sistema-automacao
+Terminal=false
+Categories=Office;Utility;
+StartupNotify=true

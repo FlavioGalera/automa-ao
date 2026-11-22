@@ -1,0 +1,578 @@
+[
+  {
+    "data": "21/11/2026 18:11:00",
+    "tipo": "Buscar E-mail",
+    "detalhe": "WISE",
+    "quantidade": 2
+  },
+  {
+    "data": "21/11/2026 18:10:26",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Downloads/Analise_Ga3.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 18:09:01",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_2.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 18:07:53",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 15:09:07",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho",
+    "quantidade": 67
+  },
+  {
+    "data": "21/11/2026 14:48:50",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 4
+  },
+  {
+    "data": "21/11/2026 14:48:03",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 4
+  },
+  {
+    "data": "21/11/2026 14:47:31",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 14:47:21",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_20261121_144719.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:47:10",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_20261121_144708.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:39:45",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Downloads/Analise_Gastos_20261121_143944.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:33:12",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_20261121_143311.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:32:11",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_04.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:31:43",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_20261121_143142.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:31:18",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_3102.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:27:58",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_47.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:27:16",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_121.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:16:20",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_20261121_141618.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:11:26",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_20261121_141125.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:10:52",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_68.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 14:10:09",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 13:53:21",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_202.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 13:52:31",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data": "21/11/2026 13:52:23",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 20
+  },
+  {
+    "data": "21/11/2026 13:49:13",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 13:47:55",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261121_134751.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 13:44:14",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Área de trabalho/Analise_Gastos_20261121_134407.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 13:42:43",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_20.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 13:38:45",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 10:53:57",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 3
+  },
+  {
+    "data": "21/11/2026 10:52:20",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 10:51:42",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "21/11/2026 10:49:53",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data": "21/11/2026 10:38:38",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data": "21/11/2026 10:25:45",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data": "21/11/2026 10:21:04",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 12
+  },
+  {
+    "data": "21/11/2026 10:19:35",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_2026.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "21/11/2026 10:18:18",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "19/11/2026 18:05:20",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "18/11/2026 22:36:12",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 11
+  },
+  {
+    "data": "18/11/2026 22:22:28",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "18/11/2026 22:20:30",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 11
+  },
+  {
+    "data": "18/11/2026 22:09:16",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 10
+  },
+  {
+    "data": "18/11/2026 22:08:37",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "18/11/2026 22:08:01",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_220758.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 22:06:58",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_220656.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 21:55:02",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_215500.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 21:53:29",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_2026.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 21:41:42",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_214140.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 21:28:13",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_2026.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:47:22",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 3
+  },
+  {
+    "data": "18/11/2026 16:46:41",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "18/11/2026 16:46:13",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Downloads/Processado7.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:37:02",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Downloads/Analise_Gastos_20261118_163656.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:36:35",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_23.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:32:08",
+    "tipo": "Análise de Gastos",
+    "detalhe": "/home/flavio/Downloads/Analise_Gastos_63.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:31:25",
+    "tipo": "Buscar E-mail",
+    "detalhe": "fineco",
+    "quantidade": 4
+  },
+  {
+    "data": "18/11/2026 16:30:55",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 3
+  },
+  {
+    "data": "18/11/2026 16:30:50",
+    "tipo": "Buscar E-mail",
+    "detalhe": "wise",
+    "quantidade": 7
+  },
+  {
+    "data": "18/11/2026 16:27:33",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 10
+  },
+  {
+    "data": "18/11/2026 16:27:26",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 1
+  },
+  {
+    "data": "18/11/2026 16:24:04",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado48.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:14:13",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado8.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 16:10:16",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado7.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 15:57:58",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado6.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 15:50:46",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_155044.xlsx",
+    "quantidade": 9
+  },
+  {
+    "data": "18/11/2026 15:35:30",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "quantidade": 10
+  },
+  {
+    "data": "18/11/2026 15:34:25",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37
+  },
+  {
+    "data": "18/11/2026 15:32:10",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado.xlsx",
+    "quantidade": 0
+  },
+  {
+    "data": "18/11/2026 15:20:01",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_151957.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 14:47:52",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 14:32:40",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_143238.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 14:32:25",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "registros": 100
+  },
+  {
+    "data": "18/11/2026 14:31:59",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "registros": 37
+  },
+  {
+    "data": "18/11/2026 14:29:41",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "registros": 100
+  },
+  {
+    "data": "18/11/2026 14:14:50",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_141445.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 14:14:10",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "registros": 10
+  },
+  {
+    "data": "18/11/2026 14:13:06",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "registros": 37
+  },
+  {
+    "data": "18/11/2026 13:51:30",
+    "tipo": "Análise Mensal",
+    "detalhe": "/home/flavio/Downloads/Analise_Mensal_20261118_135123.xlsx",
+    "registros": 17
+  },
+  {
+    "data": "18/11/2026 13:51:11",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Downloads/Processado_20261118_135108.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 13:51:06",
+    "tipo": "Buscar E-mail",
+    "detalhe": "nubank",
+    "registros": 200
+  },
+  {
+    "data": "18/11/2026 13:50:07",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_20261118_134954.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 13:48:18",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "registros": 37
+  },
+  {
+    "data": "18/11/2026 13:23:45",
+    "tipo": "Processar Excel",
+    "detalhe": "/home/flavio/Área de trabalho/Processado_20261118_132329.xlsx",
+    "registros": 0
+  },
+  {
+    "data": "18/11/2026 13:21:18",
+    "tipo": "Organizar PDFs",
+    "detalhe": "/home/flavio/Área de trabalho/questura",
+    "registros": 37
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "google",
+    "quantidade": 1,
+    "data": "18/11/2026 11:50:43"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "fineco",
+    "quantidade": 0,
+    "data": "18/11/2026 11:42:58"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "fineco",
+    "quantidade": 0,
+    "data": "18/11/2026 11:42:53"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "nu",
+    "quantidade": 0,
+    "data": "18/11/2026 11:42:33"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "nu",
+    "quantidade": 0,
+    "data": "18/11/2026 11:42:26"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "google",
+    "quantidade": 17,
+    "data": "18/11/2026 11:38:53"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "google",
+    "quantidade": 92,
+    "data": "18/11/2026 11:35:34"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "nubank",
+    "quantidade": 10,
+    "data": "18/11/2026 11:27:24"
+  },
+  {
+    "acao": "Organizar PDFs",
+    "caminho": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37,
+    "data": "18/11/2026 11:26:55"
+  },
+  {
+    "acao": "Buscar E-mail",
+    "caminho": "nubank",
+    "quantidade": 10,
+    "data": "18/11/2026 11:00:56"
+  },
+  {
+    "acao": "Organizar PDFs",
+    "caminho": "/home/flavio/Área de trabalho/questura",
+    "quantidade": 37,
+    "data": "18/11/2026 11:00:11"
+  }
+]
